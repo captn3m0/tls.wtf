@@ -1,0 +1,5 @@
+{
+	"CN": "'client.tls.wtf'",
+	"hosts": [""],
+	"key": { "algo": "rsa", "size": 2048 }
+}
