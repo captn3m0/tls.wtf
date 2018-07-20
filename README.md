@@ -9,7 +9,7 @@ Run the container using:
 ```bash
 docker run \
 --tty --interactive \
---name tls.wtf
+--name tls.wtf \
 captn3m0/tls.wtf
 ```
 
@@ -27,7 +27,7 @@ docker stop tls.wtf
 docker rm tls.wtf
 docker run \
 --tty --interactive \
---name tls.wtf
+--name tls.wtf \
 captn3m0/tls.wtf
 ```
 
